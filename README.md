@@ -1,9 +1,9 @@
-# Upload Form Data to Google Sheets
+# Form-Sheets
 
-# Technologies used
-React, Axios and Bootstrap for styling.
+## Technologies used
+React, Axios and Bootstrap.
 
-# Procedure to be followed:
+## Procedure to be followed:
   1. Create a google sheet document and give it a name.
   2. Click on share and change it to anyone with the link can edit, and copy the link.
   3. Go to https://sheet.best/ and sign up for free.
